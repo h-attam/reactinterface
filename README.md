@@ -1,4 +1,4 @@
-# interface
+# Appointments
 
 Bu uygulama, evcil hayvan sahipleri için randevu süreçlerini dijitalleştiren basit bir yönetim arayüzüdür. Kullanıcıların randevuları listelemesine, filtrelemesine ve yeni kayıtlar oluşturmasına olanak tanır.
 
